@@ -1,7 +1,7 @@
 ColorArcadeCode
 ===============
 
-Contains the code *only* for the single handed unity game ColorArcade
+Contains *only* the code for the single handed unity game ColorArcade
 
 The game has been released for both iOS and Android
 
