@@ -1,8 +1,8 @@
 ColorArcadeCode
 ===============
 
-Contains the code *only* for the single handed unity game Color Arcade
+Contains the code *only* for the single handed unity game ColorArcade
 
 The game has been released for both iOS and Android
 
-Go to rokr047.com/ColorArcade to download and play!
+Go to rokr047.com/ColorArcade or search for ColorArcade in app store to download and play!
