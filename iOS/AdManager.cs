@@ -62,9 +62,9 @@ public class AdManager : MonoBehaviour {
 		#if UNITY_EDITOR
 		string adUnitId = "unused";
 		#elif UNITY_ANDROID
-		string adUnitId = "ca-app-pub-6241121386721298/3465275765";
+		string adUnitId = "AD UNIT ID";
 		#elif UNITY_IPHONE
-		string adUnitId = "ca-app-pub-6241121386721298/1209813362";
+		string adUnitId = "AS UNIT ID";
 		#else
 		string adUnitId = "unexpected_platform";
 		#endif
